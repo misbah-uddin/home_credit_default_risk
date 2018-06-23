@@ -7,4 +7,5 @@
 #### Categorical data
  
 - [X] [When to use One Hot Encoding vs LabelEncoder vs DictVectorizor?](https://datascience.stackexchange.com/questions/9443/when-to-use-one-hot-encoding-vs-labelencoder-vs-dictvectorizor)
-- [X] [How to One Hot Encode Sequence Data in Python](https://machinelearningmastery.com/how-to-one-hot-encode-sequence-data-in-python/)
+- [X] [How can I one hot encode in Python?](https://stackoverflow.com/questions/37292872/how-can-i-one-hot-encode-in-python)
+
