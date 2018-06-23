@@ -4,4 +4,7 @@
 
 ### Data Manipulation
 
-- [X][When to use One Hot Encoding vs LabelEncoder vs DictVectorizor?](https://datascience.stackexchange.com/questions/9443/when-to-use-one-hot-encoding-vs-labelencoder-vs-dictvectorizor)
+#### Categorical data
+ 
+- [X] [When to use One Hot Encoding vs LabelEncoder vs DictVectorizor?](https://datascience.stackexchange.com/questions/9443/when-to-use-one-hot-encoding-vs-labelencoder-vs-dictvectorizor)
+- [X] [How to One Hot Encode Sequence Data in Python](https://machinelearningmastery.com/how-to-one-hot-encode-sequence-data-in-python/)
