@@ -17,7 +17,7 @@
 #### Feature Engineering
 
 - [X] [Machine Learning Kaggle Competition Part Two: Improving](https://towardsdatascience.com/machine-learning-kaggle-competition-part-two-improving-e5b4d61ab4b8)
-- [] [Automated Feature Engineering in Python](https://towardsdatascience.com/automated-feature-engineering-in-python-99baf11cc219)
+- [ ] [Automated Feature Engineering in Python](https://towardsdatascience.com/automated-feature-engineering-in-python-99baf11cc219)
 
 #### Similar Projects
  
