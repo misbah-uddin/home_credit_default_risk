@@ -1,4 +1,4 @@
-### Introduction
+﻿### Introduction
 
 - [X] [Machine Learning Kaggle Competition Part One: Getting Started](https://towardsdatascience.com/machine-learning-kaggle-competition-part-one-getting-staCleanrted-32fb9ff47426)
 
@@ -12,7 +12,12 @@
 
 #### Machine Learning Algorithms
 
+##### Logistic Regression
 - [X] [logistic_regression](https://www.youtube.com/playlist?list=PLSwxFwZ8IxShqwXmyjCBjmw_jQWD3-hMY)
+
+##### Gradient Boosting
+- [X] [Gradient boosting: Distance to target](http://explained.ai/gradient-boosting/index.html)
+- [x] [A Kaggle Master Explains Gradient Boosting](http://blog.kaggle.com/2017/01/23/a-kaggle-master-explains-gradient-boosting/)
 
 #### Feature Engineering
 
