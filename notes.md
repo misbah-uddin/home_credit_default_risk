@@ -1,4 +1,4 @@
-### Introduction
+﻿### Introduction
 
 - [X] [Machine Learning Kaggle Competition Part One: Getting Started](https://towardsdatascience.com/machine-learning-kaggle-competition-part-one-getting-staCleanrted-32fb9ff47426)
 
@@ -10,6 +10,10 @@
 - [X] [How can I one hot encode in Python?](https://stackoverflow.com/questions/37292872/how-can-i-one-hot-encode-in-python)
 - [X] [Getting correct shape for datapoint to predict with a Regression model after using One-Hot-Encoding in training](https://stackoverflow.com/questions/45012271/getting-correct-shape-for-datapoint-to-predict-with-a-regression-model-after-usi)
 
+#### Credit risk analysis
+
+- [X] [What can we learn from 42.5 million mortgage loan applications?](https://towardsdatascience.com/what-can-we-learn-from-42-5-million-mortgage-loan-applications-990656750009), [Data: Home Values](https://www.zillow.com/research/data/), 
+
 #### Machine Learning Algorithms
 
 ##### Logistic Regression
@@ -19,6 +23,10 @@
 - [X] [Gradient boosting: Distance to target](http://explained.ai/gradient-boosting/index.html)
 - [X] [A Kaggle Master Explains Gradient Boosting](http://blog.kaggle.com/2017/01/23/a-kaggle-master-explains-gradient-boosting/)
 - [X] [xgboost/LightGBM parameters](https://sites.google.com/view/lauraepp/parameters)
+
+##### Wide and Deep Learning
+
+- [ ] [Wide & Deep Learning for Recommender Systems](https://arxiv.org/pdf/1606.07792.pdf?)
 
 #### Feature Engineering
 
