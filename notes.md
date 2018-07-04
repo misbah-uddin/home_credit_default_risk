@@ -24,9 +24,9 @@
 - [X] [A Kaggle Master Explains Gradient Boosting](http://blog.kaggle.com/2017/01/23/a-kaggle-master-explains-gradient-boosting/)
 - [X] [xgboost/LightGBM parameters](https://sites.google.com/view/lauraepp/parameters)
 
-##### Wide and Deep Learning
-
-- [ ] [Wide & Deep Learning for Recommender Systems](https://arxiv.org/pdf/1606.07792.pdf?)
+##### Deep Learning
+- [X] [Binary Classification Tutorial with the Keras Deep Learning Library] (https://machinelearningmastery.com/binary-classification-tutorial-with-the-keras-deep-learning-library/)
+- [ ] [Wide & Deep Learning for Recommender Systems](https://arxiv.org/pdf/1606.07792.pdf?)
 
 #### Feature Engineering
 
