@@ -25,7 +25,8 @@
 - [X] [xgboost/LightGBM parameters](https://sites.google.com/view/lauraepp/parameters)
 
 ##### Deep Learning
-- [X] [Binary Classification Tutorial with the Keras Deep Learning Library] (https://machinelearningmastery.com/binary-classification-tutorial-with-the-keras-deep-learning-library/)
+- [X] [Binary Classification Tutorial with the Keras Deep Learning Library] (https://machinelearningmastery.com/binary-classification-tutorial-with-the-keras-deep-learning-library/) [How to Make Predictions with Keras](https://machinelearningmastery.com/how-to-make-classification-and-regression-predictions-for-deep-learning-models-in-keras/)
+- [X] [Simple guide on how to generate ROC plot for Keras classifier](https://www.dlology.com/blog/simple-guide-on-how-to-generate-roc-plot-for-keras-classifier/)
 - [ ] [Wide & Deep Learning for Recommender Systems](https://arxiv.org/pdf/1606.07792.pdf?)
 
 #### Feature Engineering
