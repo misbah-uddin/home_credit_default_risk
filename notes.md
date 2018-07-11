@@ -43,6 +43,7 @@
 - [ ] [Optimizing Investment Strategy in Peer to Peer Lending](http://cs229.stanford.edu/proj2017/final-reports/5228410.pdf)
 - [ ] [Machine Learning Capstone Project](https://github.com/nishant1005/Credit-Risk-Modeling-using-Machine-Learning)
 - [ ] [Credit Scoring Machine Learning with Keras — R](https://medium.com/@heruwiryanto/credit-scoring-machine-learning-with-keras-r-502fc6eb451d)
+- [X] [Predicting defaulting on credit card applications](https://github.com/natbusa/deepcredit/blob/master/default-prediction.ipynb)
 
 #### Misc Solutions
 
