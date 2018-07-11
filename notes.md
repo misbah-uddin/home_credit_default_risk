@@ -29,6 +29,7 @@
 - [ ] Feedforward Neural Network For Binary Classification](https://chrisalbon.com/deep_learning/keras/feedforward_neural_network_for_binary_classification/)
 - [X] [Simple guide on how to generate ROC plot for Keras classifier](https://www.dlology.com/blog/simple-guide-on-how-to-generate-roc-plot-for-keras-classifier/)
 - [ ] [Wide & Deep Learning for Recommender Systems](https://arxiv.org/pdf/1606.07792.pdf?)
+- [X] [Epoch vs Batch Size vs Iterations](https://towardsdatascience.com/epoch-vs-iterations-vs-batch-size-4dfb9c7ce9c9)
 
 #### Feature Engineering
 
